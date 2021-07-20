@@ -1,0 +1,2323 @@
+{
+  "layers": [
+    {
+      "name": "UP",
+      "timing_points": [
+
+      ]
+    },
+    {
+      "name": "LEFT",
+      "timing_points": [
+        {
+          "time": 28254,
+          "position": "Vector2( 1023.71, 539.402 )",
+          "note_type": 1,
+          "entry_angle": 45,
+          "type": "Note"
+        },
+        {
+          "time": 27893,
+          "position": "Vector2( 863.909, 431.536 )",
+          "note_type": 1,
+          "entry_angle": -45,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 27531,
+          "position": "Vector2( 703.664, 539.701 )",
+          "note_type": 1,
+          "entry_angle": 45,
+          "type": "Note"
+        },
+        {
+          "time": 27170,
+          "position": "Vector2( 543.861, 431.834 )",
+          "note_type": 1,
+          "entry_angle": -45,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 26808,
+          "position": "Vector2( 383.616, 540 )",
+          "note_type": 1,
+          "entry_angle": 45,
+          "type": "Note"
+        },
+        {
+          "time": 18134,
+          "position": "Vector2( 1279.18, 580.97 )",
+          "note_type": 1,
+          "entry_angle": -90.39009,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 17772,
+          "position": "Vector2( 1086.88, 580.97 )",
+          "note_type": 1,
+          "entry_angle": -90.39009,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 17411,
+          "position": "Vector2( 895.119, 580.97 )",
+          "note_type": 1,
+          "entry_angle": -90.39009,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 18495,
+          "position": "Vector2( 1470.94, 580.97 )",
+          "note_type": 1,
+          "entry_angle": -90.39009,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 26628,
+          "position": "Vector2( 288, 540 )",
+          "note_type": 1,
+          "entry_angle": 45,
+          "type": "Note"
+        },
+        {
+          "time": 46327,
+          "position": "Vector2( 1583.82, 378 )",
+          "note_type": 1,
+          "entry_angle": -270.319567,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 46688,
+          "position": "Vector2( 1392.06, 378 )",
+          "note_type": 1,
+          "entry_angle": -270.319567,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 47049,
+          "position": "Vector2( 1200.29, 378 )",
+          "note_type": 1,
+          "entry_angle": -269.677215,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 68013,
+          "position": "Vector2( 1151.85, 725.871 )",
+          "note_type": 1,
+          "entry_angle": -33,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 67651,
+          "position": "Vector2( 991.603, 617.706 )",
+          "note_type": 1,
+          "entry_angle": -39,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 67290,
+          "position": "Vector2( 831.8, 509.839 )",
+          "note_type": 1,
+          "entry_angle": -45,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 69097,
+          "position": "Vector2( 991.603, 510.138 )",
+          "note_type": 1,
+          "entry_angle": -213,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 68736,
+          "position": "Vector2( 1151.41, 618.005 )",
+          "note_type": 1,
+          "entry_angle": -219,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 68374,
+          "position": "Vector2( 1311.65, 726.17 )",
+          "note_type": 1,
+          "entry_angle": -225,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 82471,
+          "position": "Vector2( 847.266, 743.432 )",
+          "note_type": 1,
+          "oscillation_amplitude": -500,
+          "type": "Note"
+        },
+        {
+          "time": 82110,
+          "position": "Vector2( 847.266, 551.669 )",
+          "note_type": 1,
+          "oscillation_amplitude": -500,
+          "type": "Note"
+        },
+        {
+          "time": 81748,
+          "position": "Vector2( 654.972, 551.669 )",
+          "note_type": 1,
+          "entry_angle": -270,
+          "type": "Note"
+        },
+        {
+          "time": 81387,
+          "position": "Vector2( 463.209, 551.669 )",
+          "note_type": 1,
+          "entry_angle": -270,
+          "type": "Note"
+        },
+        {
+          "time": 87531,
+          "position": "Vector2( 622.48, 636.097 )",
+          "note_type": 1,
+          "entry_angle": -51,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 87351,
+          "position": "Vector2( 542.8, 582.313 )",
+          "note_type": 1,
+          "entry_angle": -48,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 120061,
+          "position": "Vector2( 1487.28, 591.818 )",
+          "note_type": 1,
+          "entry_angle": -240,
+          "type": "Note"
+        },
+        {
+          "time": 119699,
+          "position": "Vector2( 1327.03, 483.653 )",
+          "note_type": 1,
+          "entry_angle": -234,
+          "type": "Note"
+        },
+        {
+          "time": 119338,
+          "position": "Vector2( 1167.23, 375.786 )",
+          "note_type": 1,
+          "entry_angle": -228,
+          "type": "Note"
+        },
+        {
+          "time": 29158,
+          "position": "Vector2( 1471.87, 431.237 )",
+          "note_type": 1,
+          "entry_angle": -45,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 28887,
+          "position": "Vector2( 1327.91, 431.237 )",
+          "note_type": 1,
+          "entry_angle": -45,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 28616,
+          "position": "Vector2( 1183.96, 431.237 )",
+          "note_type": 1,
+          "entry_angle": -45,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 5845,
+          "position": "Vector2( 864, 324 )",
+          "note_type": 1,
+          "entry_angle": -254,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 5483,
+          "position": "Vector2( 1024.25, 432.166 )",
+          "note_type": 1,
+          "entry_angle": -257,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 5122,
+          "position": "Vector2( 1184.05, 540.032 )",
+          "note_type": 1,
+          "entry_angle": -263,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 4760,
+          "position": "Vector2( 1344.29, 648.198 )",
+          "note_type": 1,
+          "entry_angle": -269,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 4399,
+          "position": "Vector2( 1184.49, 647.899 )",
+          "note_type": 1,
+          "entry_angle": -258,
+          "type": "Note"
+        },
+        {
+          "time": 4037,
+          "position": "Vector2( 1024.25, 539.734 )",
+          "note_type": 1,
+          "entry_angle": -264,
+          "type": "Note"
+        },
+        {
+          "time": 3676,
+          "position": "Vector2( 864.443, 431.867 )",
+          "note_type": 1,
+          "entry_angle": -270,
+          "type": "Note"
+        },
+        {
+          "time": 3315,
+          "position": "Vector2( 672.68, 431.867 )",
+          "note_type": 1,
+          "entry_angle": -270.467877,
+          "type": "Note"
+        },
+        {
+          "time": 8374,
+          "position": "Vector2( 1151.79, 785.662 )",
+          "note_type": 1,
+          "entry_angle": -102,
+          "type": "Note"
+        },
+        {
+          "time": 8013,
+          "position": "Vector2( 1343.56, 785.662 )",
+          "note_type": 1,
+          "entry_angle": -96,
+          "type": "Note"
+        },
+        {
+          "time": 7651,
+          "position": "Vector2( 1535.85, 785.662 )",
+          "note_type": 1,
+          "entry_angle": -90,
+          "type": "Note"
+        },
+        {
+          "time": 7290,
+          "position": "Vector2( 1535.85, 593.899 )",
+          "note_type": 1,
+          "entry_angle": -258,
+          "type": "Note"
+        },
+        {
+          "time": 6928,
+          "position": "Vector2( 1375.61, 485.734 )",
+          "note_type": 1,
+          "entry_angle": -264,
+          "type": "Note"
+        },
+        {
+          "time": 6567,
+          "position": "Vector2( 1215.8, 377.867 )",
+          "note_type": 1,
+          "entry_angle": -270,
+          "type": "Note"
+        },
+        {
+          "time": 6206,
+          "position": "Vector2( 1056, 270 )",
+          "note_type": 1,
+          "entry_angle": -270,
+          "type": "Note"
+        },
+        {
+          "time": 19941,
+          "position": "Vector2( 1055.36, 472.804 )",
+          "note_type": 1,
+          "entry_angle": -270.320236,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 19580,
+          "position": "Vector2( 1247.13, 472.804 )",
+          "note_type": 1,
+          "entry_angle": -270.320236,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 19399,
+          "position": "Vector2( 1343.27, 472.804 )",
+          "note_type": 1,
+          "entry_angle": -270.320236,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 19037,
+          "position": "Vector2( 1535.57, 472.804 )",
+          "note_type": 1,
+          "entry_angle": -270.320236,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 18857,
+          "position": "Vector2( 1631.19, 472.804 )",
+          "note_type": 1,
+          "entry_angle": -270.320236,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 24278,
+          "position": "Vector2( 1263.15, 394.751 )",
+          "note_type": 1,
+          "entry_angle": -270.327619,
+          "type": "Note"
+        },
+        {
+          "time": 23917,
+          "position": "Vector2( 1071.39, 394.751 )",
+          "note_type": 1,
+          "entry_angle": -270.327619,
+          "type": "Note"
+        },
+        {
+          "time": 23555,
+          "position": "Vector2( 879.095, 394.751 )",
+          "note_type": 1,
+          "entry_angle": -270.327619,
+          "type": "Note"
+        },
+        {
+          "time": 23194,
+          "position": "Vector2( 687.331, 394.751 )",
+          "note_type": 1,
+          "entry_angle": -270.327619,
+          "type": "Note"
+        },
+        {
+          "time": 34941,
+          "position": "Vector2( 1025.04, 905.846 )",
+          "note_type": 1,
+          "entry_angle": 270.323455,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 34670,
+          "position": "Vector2( 881.086, 905.846 )",
+          "note_type": 1,
+          "entry_angle": 270.323455,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 34399,
+          "position": "Vector2( 737.131, 905.846 )",
+          "note_type": 1,
+          "entry_angle": 270.323455,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 34037,
+          "position": "Vector2( 576.885, 797.681 )",
+          "note_type": 1,
+          "entry_angle": -225,
+          "type": "Note"
+        },
+        {
+          "time": 33676,
+          "position": "Vector2( 736.688, 689.814 )",
+          "note_type": 1,
+          "entry_angle": 45,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 33314,
+          "position": "Vector2( 576.443, 581.648 )",
+          "note_type": 1,
+          "entry_angle": -225,
+          "type": "Note"
+        },
+        {
+          "time": 32953,
+          "position": "Vector2( 736.245, 473.782 )",
+          "note_type": 1,
+          "entry_angle": 45,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 32591,
+          "position": "Vector2( 576, 365.616 )",
+          "note_type": 1,
+          "entry_angle": -225,
+          "type": "Note"
+        },
+        {
+          "time": 32411,
+          "position": "Vector2( 576, 270 )",
+          "note_type": 1,
+          "entry_angle": -225,
+          "type": "Note"
+        },
+        {
+          "time": 47411,
+          "position": "Vector2( 1008, 378 )",
+          "note_type": 1,
+          "entry_angle": -269.677215,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 44519,
+          "position": "Vector2( 816, 540 )",
+          "note_type": 1,
+          "entry_angle": -90.143227,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 44157,
+          "position": "Vector2( 623.706, 540 )",
+          "note_type": 1,
+          "entry_angle": -90.143227,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 43796,
+          "position": "Vector2( 431.942, 540 )",
+          "note_type": 1,
+          "entry_angle": -90.143227,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 41628,
+          "position": "Vector2( 816.06, 918 )",
+          "note_type": 1,
+          "entry_angle": -90.143227,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 41266,
+          "position": "Vector2( 623.76, 918 )",
+          "note_type": 1,
+          "entry_angle": -90.143227,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 40905,
+          "position": "Vector2( 432, 918 )",
+          "note_type": 1,
+          "entry_angle": -90.143227,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 50303,
+          "position": "Vector2( 1104, 702 )",
+          "note_type": 1,
+          "entry_angle": -90,
+          "oscillation_amplitude": -500,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 49941,
+          "position": "Vector2( 1296.29, 702 )",
+          "note_type": 1,
+          "entry_angle": -90,
+          "oscillation_amplitude": -500,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 49580,
+          "position": "Vector2( 1488.06, 702 )",
+          "note_type": 1,
+          "entry_angle": -90,
+          "oscillation_amplitude": -500,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 52833,
+          "position": "Vector2( 592.277, 269.935 )",
+          "note_type": 1,
+          "entry_angle": -269.98445,
+          "type": "Note"
+        },
+        {
+          "time": 52471,
+          "position": "Vector2( 399.983, 269.935 )",
+          "note_type": 1,
+          "entry_angle": -269.98445,
+          "type": "Note"
+        },
+        {
+          "time": 58616,
+          "position": "Vector2( 1312.67, 564.32 )",
+          "note_type": 1,
+          "entry_angle": -270.221178,
+          "oscillation_amplitude": -500,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 58254,
+          "position": "Vector2( 1120.38, 564.32 )",
+          "note_type": 1,
+          "entry_angle": -270.221178,
+          "oscillation_amplitude": -500,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 55363,
+          "position": "Vector2( 832.114, 432.184 )",
+          "note_type": 1,
+          "entry_angle": -270,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 55001,
+          "position": "Vector2( 1024.41, 432.184 )",
+          "note_type": 1,
+          "entry_angle": -270,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 54098,
+          "position": "Vector2( 1216.17, 432.184 )",
+          "note_type": 1,
+          "entry_angle": -270,
+          "oscillation_frequency": -2,
+          "end_time": 54640,
+          "type": "SustainNote"
+        },
+        {
+          "time": 57893,
+          "position": "Vector2( 1120.38, 756.083 )",
+          "note_type": 1,
+          "entry_angle": -90.44133,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 57531,
+          "position": "Vector2( 928.084, 756.083 )",
+          "note_type": 1,
+          "entry_angle": -90.44133,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 57170,
+          "position": "Vector2( 736.321, 756.083 )",
+          "note_type": 1,
+          "entry_angle": -90.44133,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 63315,
+          "position": "Vector2( 1440, 810 )",
+          "note_type": 1,
+          "entry_angle": -90,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 63676,
+          "position": "Vector2( 1248.23, 810 )",
+          "note_type": 1,
+          "entry_angle": -90,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 64037,
+          "position": "Vector2( 1056.47, 810 )",
+          "note_type": 1,
+          "entry_angle": -90,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 66928,
+          "position": "Vector2( 1056.47, 810 )",
+          "note_type": 1,
+          "entry_angle": -90,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 66567,
+          "position": "Vector2( 1248.24, 810 )",
+          "note_type": 1,
+          "entry_angle": -90,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 66206,
+          "position": "Vector2( 1440, 810 )",
+          "note_type": 1,
+          "entry_angle": -90,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 69459,
+          "position": "Vector2( 831.357, 401.972 )",
+          "note_type": 1,
+          "entry_angle": -210,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 71989,
+          "position": "Vector2( 862.872, 917.635 )",
+          "note_type": 1,
+          "entry_angle": -133,
+          "type": "Note"
+        },
+        {
+          "time": 71628,
+          "position": "Vector2( 1022.67, 809.768 )",
+          "note_type": 1,
+          "entry_angle": -139,
+          "type": "Note"
+        },
+        {
+          "time": 71266,
+          "position": "Vector2( 1182.92, 701.602 )",
+          "note_type": 1,
+          "entry_angle": -145,
+          "type": "Note"
+        },
+        {
+          "time": 70905,
+          "position": "Vector2( 1182.92, 509.839 )",
+          "note_type": 1,
+          "entry_angle": -240,
+          "type": "Note"
+        },
+        {
+          "time": 70543,
+          "position": "Vector2( 1022.68, 401.673 )",
+          "note_type": 1,
+          "entry_angle": -234,
+          "type": "Note"
+        },
+        {
+          "time": 70182,
+          "position": "Vector2( 862.875, 293.807 )",
+          "note_type": 1,
+          "entry_angle": -228,
+          "type": "Note"
+        },
+        {
+          "time": 69821,
+          "position": "Vector2( 671.112, 293.807 )",
+          "note_type": 1,
+          "entry_angle": -225,
+          "type": "Note"
+        },
+        {
+          "time": 79580,
+          "position": "Vector2( 1326.94, 455.522 )",
+          "note_type": 1,
+          "type": "Note"
+        },
+        {
+          "time": 79218,
+          "position": "Vector2( 1326.94, 647.816 )",
+          "note_type": 1,
+          "type": "Note"
+        },
+        {
+          "time": 78857,
+          "position": "Vector2( 1151.2, 701.899 )",
+          "note_type": 1,
+          "entry_angle": -89.704189,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 78495,
+          "position": "Vector2( 958.908, 701.899 )",
+          "note_type": 1,
+          "entry_angle": -89.704189,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 85363,
+          "position": "Vector2( 911.183, 527.699 )",
+          "note_type": 1,
+          "entry_angle": -270,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 85001,
+          "position": "Vector2( 1103.48, 527.699 )",
+          "note_type": 1,
+          "entry_angle": -270,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 84640,
+          "position": "Vector2( 1263.28, 635.566 )",
+          "note_type": 1,
+          "entry_angle": -90.156395,
+          "type": "Note"
+        },
+        {
+          "time": 84278,
+          "position": "Vector2( 1455.58, 635.566 )",
+          "note_type": 1,
+          "entry_angle": -90.156395,
+          "type": "Note"
+        },
+        {
+          "time": 87170,
+          "position": "Vector2( 462.677, 528.23 )",
+          "note_type": 1,
+          "entry_angle": -45,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 88254,
+          "position": "Vector2( 782.283, 852.129 )",
+          "note_type": 1,
+          "entry_angle": -63,
+          "oscillation_amplitude": -500,
+          "type": "Note"
+        },
+        {
+          "time": 88074,
+          "position": "Vector2( 702.603, 798.345 )",
+          "note_type": 1,
+          "entry_angle": -60,
+          "oscillation_amplitude": -500,
+          "type": "Note"
+        },
+        {
+          "time": 87893,
+          "position": "Vector2( 622.48, 744.262 )",
+          "note_type": 1,
+          "entry_angle": -57,
+          "oscillation_amplitude": -500,
+          "type": "Note"
+        },
+        {
+          "time": 92231,
+          "position": "Vector2( 1008.29, 540 )",
+          "note_type": 1,
+          "entry_angle": -90,
+          "oscillation_amplitude": -500,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 91869,
+          "position": "Vector2( 1200.59, 540 )",
+          "note_type": 1,
+          "entry_angle": -90,
+          "oscillation_amplitude": -500,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 91508,
+          "position": "Vector2( 1392.35, 540 )",
+          "note_type": 1,
+          "entry_angle": -90,
+          "oscillation_amplitude": -500,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 94399,
+          "position": "Vector2( 1392.06, 540 )",
+          "note_type": 1,
+          "entry_angle": -90,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 94761,
+          "position": "Vector2( 1199.76, 540 )",
+          "note_type": 1,
+          "entry_angle": -90,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 95484,
+          "position": "Vector2( 815.706, 540 )",
+          "note_type": 1,
+          "entry_angle": -89.514637,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 95122,
+          "position": "Vector2( 1008, 540 )",
+          "note_type": 1,
+          "entry_angle": -90,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 98014,
+          "position": "Vector2( 1200, 702 )",
+          "note_type": 1,
+          "entry_angle": -88.672127,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 97652,
+          "position": "Vector2( 1392.29, 702 )",
+          "note_type": 1,
+          "entry_angle": -88.672127,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 97291,
+          "position": "Vector2( 1584.06, 702 )",
+          "note_type": 1,
+          "entry_angle": -88.672127,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 101267,
+          "position": "Vector2( 1007.71, 702 )",
+          "note_type": 1,
+          "entry_angle": -90.487864,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 100905,
+          "position": "Vector2( 1200, 702 )",
+          "note_type": 1,
+          "entry_angle": -90.487864,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 100544,
+          "position": "Vector2( 1391.76, 702 )",
+          "note_type": 1,
+          "entry_angle": -90.487864,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 100182,
+          "position": "Vector2( 1584.06, 702 )",
+          "note_type": 1,
+          "entry_angle": -90.487864,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 101990,
+          "position": "Vector2( 1200, 510.237 )",
+          "note_type": 1,
+          "entry_angle": -270.206705,
+          "oscillation_amplitude": -500,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 101628,
+          "position": "Vector2( 1007.71, 510.237 )",
+          "note_type": 1,
+          "entry_angle": -270.206705,
+          "oscillation_amplitude": -500,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 104520,
+          "position": "Vector2( 959.012, 348.287 )",
+          "note_type": 1,
+          "entry_angle": -270.180968,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 104158,
+          "position": "Vector2( 1151.31, 348.287 )",
+          "note_type": 1,
+          "entry_angle": -270.180968,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 103254,
+          "position": "Vector2( 1343.6, 348.287 )",
+          "note_type": 1,
+          "entry_angle": -270.180968,
+          "oscillation_frequency": -2,
+          "end_time": 103796,
+          "type": "SustainNote"
+        },
+        {
+          "time": 107773,
+          "position": "Vector2( 815.145, 726.269 )",
+          "note_type": 1,
+          "entry_angle": -90,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 107411,
+          "position": "Vector2( 622.851, 726.269 )",
+          "note_type": 1,
+          "entry_angle": -90,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 113194,
+          "position": "Vector2( 240.237, 486 )",
+          "note_type": 1,
+          "entry_angle": -90.257632,
+          "oscillation_amplitude": -500,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 112833,
+          "position": "Vector2( 432, 486 )",
+          "note_type": 1,
+          "entry_angle": -90.257632,
+          "oscillation_amplitude": -500,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 112472,
+          "position": "Vector2( 623.763, 486 )",
+          "note_type": 1,
+          "entry_angle": -90.257632,
+          "oscillation_amplitude": -500,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 118977,
+          "position": "Vector2( 1007.43, 267.919 )",
+          "note_type": 1,
+          "entry_angle": -225,
+          "type": "Note"
+        },
+        {
+          "time": 121869,
+          "position": "Vector2( 718.634, 783.581 )",
+          "note_type": 1,
+          "entry_angle": -90,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 121507,
+          "position": "Vector2( 910.928, 783.581 )",
+          "note_type": 1,
+          "entry_angle": -90,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 121145,
+          "position": "Vector2( 1103.22, 783.581 )",
+          "note_type": 1,
+          "entry_angle": -90,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 120784,
+          "position": "Vector2( 1294.99, 783.581 )",
+          "note_type": 1,
+          "entry_angle": -129,
+          "type": "Note"
+        },
+        {
+          "time": 120422,
+          "position": "Vector2( 1487.28, 783.581 )",
+          "note_type": 1,
+          "entry_angle": -135,
+          "type": "Note"
+        },
+        {
+          "time": 125844,
+          "position": "Vector2( 832.131, 633.052 )",
+          "note_type": 1,
+          "entry_angle": 57,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 125482,
+          "position": "Vector2( 992.376, 524.887 )",
+          "note_type": 1,
+          "entry_angle": 51,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 125121,
+          "position": "Vector2( 1152.18, 417.02 )",
+          "note_type": 1,
+          "entry_angle": 45,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 25724,
+          "position": "Vector2( 847.575, 502.917 )",
+          "note_type": 1,
+          "entry_angle": -270.320236,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 25363,
+          "position": "Vector2( 1039.34, 502.917 )",
+          "note_type": 1,
+          "entry_angle": -270.320236,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 25182,
+          "position": "Vector2( 1135.48, 502.917 )",
+          "note_type": 1,
+          "entry_angle": -270.320236,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 24820,
+          "position": "Vector2( 1327.78, 502.917 )",
+          "note_type": 1,
+          "entry_angle": -270.320236,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 24640,
+          "position": "Vector2( 1423.4, 502.917 )",
+          "note_type": 1,
+          "entry_angle": -270.320236,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 124760,
+          "position": "Vector2( 1311.98, 309.153 )",
+          "note_type": 1,
+          "entry_angle": 45,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        }
+      ]
+    },
+    {
+      "name": "DOWN",
+      "timing_points": [
+
+      ]
+    },
+    {
+      "name": "RIGHT",
+      "timing_points": [
+        {
+          "time": 22833,
+          "position": "Vector2( 528.442, 486 )",
+          "entry_angle": -270.277295,
+          "type": "Note"
+        },
+        {
+          "time": 22471,
+          "position": "Vector2( 336.147, 486 )",
+          "entry_angle": -270.277295,
+          "type": "Note"
+        },
+        {
+          "time": 21929,
+          "position": "Vector2( 575.16, 664.568 )",
+          "entry_angle": -89.542716,
+          "type": "Note"
+        },
+        {
+          "time": 20664,
+          "position": "Vector2( 863.07, 664.568 )",
+          "entry_angle": -89.924148,
+          "end_time": 21387,
+          "type": "SustainNote"
+        },
+        {
+          "time": 20302,
+          "position": "Vector2( 1055.36, 664.568 )",
+          "entry_angle": -89.924148,
+          "type": "Note"
+        },
+        {
+          "time": 31145,
+          "position": "Vector2( 896.288, 540.598 )",
+          "entry_angle": 225,
+          "type": "Note"
+        },
+        {
+          "time": 30784,
+          "position": "Vector2( 1056.09, 648.464 )",
+          "entry_angle": -225,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 30422,
+          "position": "Vector2( 1216.34, 540.299 )",
+          "entry_angle": 225,
+          "type": "Note"
+        },
+        {
+          "time": 30061,
+          "position": "Vector2( 1376.14, 648.166 )",
+          "entry_angle": -225,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 29699,
+          "position": "Vector2( 1536.38, 540 )",
+          "entry_angle": 225,
+          "type": "Note"
+        },
+        {
+          "time": 29519,
+          "position": "Vector2( 1632, 540 )",
+          "entry_angle": 225,
+          "type": "Note"
+        },
+        {
+          "time": 86808,
+          "position": "Vector2( 495.165, 419.832 )",
+          "entry_angle": -270,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 86447,
+          "position": "Vector2( 686.928, 419.832 )",
+          "entry_angle": -270,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 86086,
+          "position": "Vector2( 878.691, 419.832 )",
+          "entry_angle": -270,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 85724,
+          "position": "Vector2( 1070.99, 419.832 )",
+          "entry_angle": -270,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 106146,
+          "position": "Vector2( 1262.86, 618.402 )",
+          "entry_angle": -90,
+          "type": "Note"
+        },
+        {
+          "time": 106327,
+          "position": "Vector2( 1166.71, 618.402 )",
+          "entry_angle": -90,
+          "type": "Note"
+        },
+        {
+          "time": 106688,
+          "position": "Vector2( 974.948, 618.402 )",
+          "entry_angle": -90,
+          "type": "Note"
+        },
+        {
+          "time": 107050,
+          "position": "Vector2( 782.654, 618.402 )",
+          "entry_angle": -90,
+          "type": "Note"
+        },
+        {
+          "time": 118254,
+          "position": "Vector2( 975.909, 376.085 )",
+          "entry_angle": -213,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 117893,
+          "position": "Vector2( 1135.71, 483.951 )",
+          "entry_angle": -219,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 117531,
+          "position": "Vector2( 1295.96, 592.117 )",
+          "entry_angle": -225,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 122953,
+          "position": "Vector2( 944.048, 431.968 )",
+          "entry_angle": -123,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 122591,
+          "position": "Vector2( 783.803, 540.133 )",
+          "entry_angle": -129,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 122230,
+          "position": "Vector2( 624, 648 )",
+          "entry_angle": -135,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 32049,
+          "position": "Vector2( 448.132, 648.763 )",
+          "entry_angle": -225,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 31778,
+          "position": "Vector2( 592.087, 648.763 )",
+          "entry_angle": -225,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 31507,
+          "position": "Vector2( 736.043, 648.763 )",
+          "entry_angle": -225,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 14157,
+          "position": "Vector2( 1136.43, 701.899 )",
+          "entry_angle": -102,
+          "type": "Note"
+        },
+        {
+          "time": 13796,
+          "position": "Vector2( 1328.2, 701.899 )",
+          "entry_angle": -96,
+          "type": "Note"
+        },
+        {
+          "time": 13434,
+          "position": "Vector2( 1520.49, 701.899 )",
+          "entry_angle": -90,
+          "type": "Note"
+        },
+        {
+          "time": 13073,
+          "position": "Vector2( 1520.49, 510.136 )",
+          "entry_angle": -255,
+          "type": "Note"
+        },
+        {
+          "time": 12711,
+          "position": "Vector2( 1360.25, 401.97 )",
+          "entry_angle": -261,
+          "type": "Note"
+        },
+        {
+          "time": 12350,
+          "position": "Vector2( 1200.44, 294.104 )",
+          "entry_angle": -267,
+          "type": "Note"
+        },
+        {
+          "time": 11989,
+          "position": "Vector2( 1040.64, 186.237 )",
+          "entry_angle": -270,
+          "type": "Note"
+        },
+        {
+          "time": 11628,
+          "position": "Vector2( 1040.64, 378 )",
+          "entry_angle": -285,
+          "type": "Note"
+        },
+        {
+          "time": 11266,
+          "position": "Vector2( 880.395, 486.166 )",
+          "entry_angle": -282,
+          "type": "Note"
+        },
+        {
+          "time": 10905,
+          "position": "Vector2( 720.592, 594.032 )",
+          "entry_angle": -276,
+          "type": "Note"
+        },
+        {
+          "time": 10543,
+          "position": "Vector2( 560.347, 702.198 )",
+          "entry_angle": -270,
+          "type": "Note"
+        },
+        {
+          "time": 10182,
+          "position": "Vector2( 720.149, 701.899 )",
+          "entry_angle": -105,
+          "type": "Note"
+        },
+        {
+          "time": 9820,
+          "position": "Vector2( 880.395, 593.734 )",
+          "entry_angle": -99,
+          "type": "Note"
+        },
+        {
+          "time": 9459,
+          "position": "Vector2( 1040.2, 485.867 )",
+          "entry_angle": -93,
+          "type": "Note"
+        },
+        {
+          "time": 9098,
+          "position": "Vector2( 1200, 378 )",
+          "entry_angle": -90,
+          "type": "Note"
+        },
+        {
+          "time": 16688,
+          "position": "Vector2( 703.355, 388.675 )",
+          "entry_angle": -270,
+          "type": "Note"
+        },
+        {
+          "time": 16146,
+          "position": "Vector2( 415.445, 388.675 )",
+          "entry_angle": -270,
+          "type": "Note"
+        },
+        {
+          "time": 14881,
+          "position": "Vector2( 751.844, 701.899 )",
+          "entry_angle": -90.452969,
+          "end_time": 15604,
+          "type": "SustainNote"
+        },
+        {
+          "time": 14519,
+          "position": "Vector2( 944.138, 701.899 )",
+          "entry_angle": -90.452969,
+          "type": "Note"
+        },
+        {
+          "time": 17049,
+          "position": "Vector2( 895.119, 388.675 )",
+          "entry_angle": -270,
+          "type": "Note"
+        },
+        {
+          "time": 38013,
+          "position": "Vector2( 336.605, 419.997 )",
+          "entry_angle": -269.686039,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 37652,
+          "position": "Vector2( 528.368, 419.997 )",
+          "entry_angle": -269.686039,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 37290,
+          "position": "Vector2( 720.662, 419.997 )",
+          "entry_angle": -269.686039,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 36929,
+          "position": "Vector2( 912.426, 419.997 )",
+          "entry_angle": -269.686039,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 36567,
+          "position": "Vector2( 1104.72, 419.997 )",
+          "entry_angle": -269.686039,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 36205,
+          "position": "Vector2( 1264.97, 528.163 )",
+          "entry_angle": -269.686039,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 35844,
+          "position": "Vector2( 1424.77, 636.03 )",
+          "entry_angle": -90,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 35482,
+          "position": "Vector2( 1264.52, 744.195 )",
+          "entry_angle": -90,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 35302,
+          "position": "Vector2( 1184.84, 797.979 )",
+          "entry_angle": -90,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 43074,
+          "position": "Vector2( 1584.18, 918 )",
+          "entry_angle": -90.143227,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 42712,
+          "position": "Vector2( 1391.88, 918 )",
+          "entry_angle": -90.143227,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 42351,
+          "position": "Vector2( 1200.12, 918 )",
+          "entry_angle": -90.143227,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 45965,
+          "position": "Vector2( 1584.06, 540 )",
+          "entry_angle": -89.725274,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 45604,
+          "position": "Vector2( 1392.3, 540 )",
+          "entry_angle": -89.725274,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 45242,
+          "position": "Vector2( 1200, 540 )",
+          "entry_angle": -89.725274,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 48857,
+          "position": "Vector2( 816, 378 )",
+          "entry_angle": -270.449279,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 48495,
+          "position": "Vector2( 623.706, 378 )",
+          "entry_angle": -270.449279,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 48134,
+          "position": "Vector2( 431.942, 378 )",
+          "entry_angle": -270.449279,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 52110,
+          "position": "Vector2( 240.18, 377.802 )",
+          "entry_angle": -89.567052,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 51748,
+          "position": "Vector2( 400.426, 485.968 )",
+          "entry_angle": -89.567052,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 51387,
+          "position": "Vector2( 560.228, 593.834 )",
+          "entry_angle": -89.567052,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 51025,
+          "position": "Vector2( 720.474, 702 )",
+          "entry_angle": -89.567052,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 53555,
+          "position": "Vector2( 975.804, 269.935 )",
+          "entry_angle": -269.98445,
+          "oscillation_amplitude": -500,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 53194,
+          "position": "Vector2( 784.041, 269.935 )",
+          "entry_angle": -269.98445,
+          "oscillation_amplitude": -500,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 59339,
+          "position": "Vector2( 1696.73, 564.32 )",
+          "entry_angle": -270.221178,
+          "type": "Note"
+        },
+        {
+          "time": 58977,
+          "position": "Vector2( 1504.44, 564.32 )",
+          "entry_angle": -270.221178,
+          "type": "Note"
+        },
+        {
+          "time": 61146,
+          "position": "Vector2( 880.372, 377.917 )",
+          "entry_angle": -269.619452,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 60784,
+          "position": "Vector2( 1072.67, 377.917 )",
+          "entry_angle": -269.619452,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 59881,
+          "position": "Vector2( 1264.43, 377.917 )",
+          "entry_angle": -270.09372,
+          "oscillation_frequency": -2,
+          "end_time": 60423,
+          "type": "SustainNote"
+        },
+        {
+          "time": 77772,
+          "position": "Vector2( 703.313, 785.795 )",
+          "entry_angle": -57,
+          "oscillation_amplitude": -500,
+          "type": "Note"
+        },
+        {
+          "time": 77411,
+          "position": "Vector2( 511.549, 785.795 )",
+          "entry_angle": -51,
+          "oscillation_amplitude": -500,
+          "type": "Note"
+        },
+        {
+          "time": 77049,
+          "position": "Vector2( 319.255, 785.795 )",
+          "entry_angle": -45,
+          "oscillation_amplitude": -500,
+          "type": "Note"
+        },
+        {
+          "time": 76688,
+          "position": "Vector2( 319.255, 594.032 )",
+          "entry_angle": 60,
+          "oscillation_amplitude": -500,
+          "type": "Note"
+        },
+        {
+          "time": 76326,
+          "position": "Vector2( 479.5, 485.867 )",
+          "entry_angle": 54,
+          "oscillation_amplitude": -500,
+          "type": "Note"
+        },
+        {
+          "time": 75965,
+          "position": "Vector2( 639.302, 378 )",
+          "entry_angle": 48,
+          "oscillation_amplitude": -500,
+          "type": "Note"
+        },
+        {
+          "time": 75604,
+          "position": "Vector2( 831.066, 378 )",
+          "entry_angle": 45,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 75242,
+          "position": "Vector2( 1023.36, 378 )",
+          "entry_angle": -210,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 74880,
+          "position": "Vector2( 1183.61, 486.166 )",
+          "entry_angle": -213,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 74519,
+          "position": "Vector2( 1343.41, 594.032 )",
+          "entry_angle": -219,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 74157,
+          "position": "Vector2( 1503.65, 702.198 )",
+          "entry_angle": -225,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 73796,
+          "position": "Vector2( 1343.85, 701.899 )",
+          "entry_angle": -30,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 73434,
+          "position": "Vector2( 1183.61, 593.734 )",
+          "entry_angle": -36,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 73073,
+          "position": "Vector2( 1023.8, 485.867 )",
+          "entry_angle": -42,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 72712,
+          "position": "Vector2( 864, 378 )",
+          "entry_angle": -45,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 81025,
+          "position": "Vector2( 559.356, 455.522 )",
+          "entry_angle": -90.423865,
+          "type": "Note"
+        },
+        {
+          "time": 80664,
+          "position": "Vector2( 751.119, 455.522 )",
+          "entry_angle": -90.423865,
+          "type": "Note"
+        },
+        {
+          "time": 80302,
+          "position": "Vector2( 943.414, 455.522 )",
+          "entry_angle": -90.423865,
+          "type": "Note"
+        },
+        {
+          "time": 79941,
+          "position": "Vector2( 1135.18, 455.522 )",
+          "entry_angle": -90.423865,
+          "type": "Note"
+        },
+        {
+          "time": 83917,
+          "position": "Vector2( 1615.38, 743.432 )",
+          "entry_angle": -90,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 83555,
+          "position": "Vector2( 1423.09, 743.432 )",
+          "entry_angle": -90,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 83194,
+          "position": "Vector2( 1231.32, 743.432 )",
+          "entry_angle": -90,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 82833,
+          "position": "Vector2( 1039.56, 743.432 )",
+          "entry_angle": -90,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 90785,
+          "position": "Vector2( 431.354, 540 )",
+          "entry_angle": -90,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 90423,
+          "position": "Vector2( 623.648, 540 )",
+          "entry_angle": -90,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 90062,
+          "position": "Vector2( 815.411, 540 )",
+          "entry_angle": -89.676445,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 89700,
+          "position": "Vector2( 1007.71, 540 )",
+          "entry_angle": -89.990599,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 89338,
+          "position": "Vector2( 1200, 540 )",
+          "entry_angle": -89.990599,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 88977,
+          "position": "Vector2( 1103.85, 635.616 )",
+          "entry_angle": -81,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 88616,
+          "position": "Vector2( 944.05, 743.483 )",
+          "entry_angle": -90,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 93676,
+          "position": "Vector2( 1008.29, 540 )",
+          "entry_angle": -270,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 93314,
+          "position": "Vector2( 816, 540 )",
+          "entry_angle": -270,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 92953,
+          "position": "Vector2( 624.237, 540 )",
+          "entry_angle": -270,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 95845,
+          "position": "Vector2( 815.942, 702 )",
+          "entry_angle": -88.672127,
+          "oscillation_amplitude": -500,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 96206,
+          "position": "Vector2( 1007.71, 702 )",
+          "entry_angle": -88.672127,
+          "oscillation_amplitude": -500,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 96568,
+          "position": "Vector2( 1200, 702 )",
+          "entry_angle": -88.672127,
+          "oscillation_amplitude": -500,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 99460,
+          "position": "Vector2( 1200, 702 )",
+          "entry_angle": -90,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 99098,
+          "position": "Vector2( 1007.71, 702 )",
+          "entry_angle": -90,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 98737,
+          "position": "Vector2( 815.942, 702 )",
+          "entry_angle": -90,
+          "oscillation_amplitude": -500,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 102712,
+          "position": "Vector2( 1583.53, 510.237 )",
+          "entry_angle": -270.206705,
+          "oscillation_amplitude": -500,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 102351,
+          "position": "Vector2( 1391.76, 510.237 )",
+          "entry_angle": -270.206705,
+          "oscillation_amplitude": -500,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 108496,
+          "position": "Vector2( 1199.2, 726.269 )",
+          "entry_angle": -90,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 108134,
+          "position": "Vector2( 1006.91, 726.269 )",
+          "entry_angle": -90,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 110303,
+          "position": "Vector2( 1054.63, 564.618 )",
+          "entry_angle": -270.236703,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 109941,
+          "position": "Vector2( 1246.92, 564.618 )",
+          "entry_angle": -270.236703,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 109037,
+          "position": "Vector2( 1438.69, 564.618 )",
+          "entry_angle": -270.236703,
+          "oscillation_frequency": -2,
+          "end_time": 109580,
+          "type": "SustainNote"
+        },
+        {
+          "time": 116086,
+          "position": "Vector2( 624.294, 486 )",
+          "entry_angle": -89.586307,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 115724,
+          "position": "Vector2( 432, 486 )",
+          "entry_angle": -89.586307,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 115363,
+          "position": "Vector2( 240.237, 486 )",
+          "entry_angle": -89.586307,
+          "oscillation_frequency": -2,
+          "type": "DoubleNote"
+        },
+        {
+          "time": 118616,
+          "position": "Vector2( 815.663, 267.919 )",
+          "entry_angle": -210,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 117170,
+          "position": "Vector2( 1136.15, 591.818 )",
+          "entry_angle": -32,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 116808,
+          "position": "Vector2( 975.909, 483.653 )",
+          "entry_angle": -38,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 116447,
+          "position": "Vector2( 816.106, 375.786 )",
+          "entry_angle": -44,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 124037,
+          "position": "Vector2( 1423.9, 323.802 )",
+          "entry_angle": 33,
+          "type": "Note"
+        },
+        {
+          "time": 123676,
+          "position": "Vector2( 1264.1, 431.669 )",
+          "entry_angle": 39,
+          "type": "Note"
+        },
+        {
+          "time": 123314,
+          "position": "Vector2( 1103.85, 539.835 )",
+          "entry_angle": 45,
+          "type": "Note"
+        },
+        {
+          "time": 127652,
+          "position": "Vector2( 512.082, 549.753 )",
+          "entry_angle": -313,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 127290,
+          "position": "Vector2( 672.328, 441.587 )",
+          "entry_angle": -319,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 126928,
+          "position": "Vector2( 832.573, 333.422 )",
+          "entry_angle": -325,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 126567,
+          "position": "Vector2( 832.573, 525.185 )",
+          "entry_angle": -129,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 126205,
+          "position": "Vector2( 672.328, 633.351 )",
+          "entry_angle": -135,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 16507,
+          "position": "Vector2( 607.208, 388.675 )",
+          "entry_angle": -270,
+          "type": "Note"
+        },
+        {
+          "time": 22290,
+          "position": "Vector2( 240, 486 )",
+          "entry_angle": -270.277295,
+          "type": "Note"
+        },
+        {
+          "time": 124399,
+          "position": "Vector2( 1584.14, 215.637 )",
+          "entry_angle": 30,
+          "type": "Note"
+        }
+      ]
+    },
+    {
+      "name": "SLIDE_LEFT",
+      "timing_points": [
+
+      ]
+    },
+    {
+      "name": "SLIDE_RIGHT",
+      "timing_points": [
+
+      ]
+    },
+    {
+      "name": "HEART",
+      "timing_points": [
+        {
+          "time": 62411,
+          "position": "Vector2( 1024.5, 539.867 )",
+          "note_type": 8,
+          "entry_angle": -270,
+          "type": "Note"
+        },
+        {
+          "time": 62049,
+          "position": "Vector2( 832.21, 539.867 )",
+          "note_type": 8,
+          "entry_angle": -270,
+          "type": "Note"
+        },
+        {
+          "time": 61688,
+          "position": "Vector2( 640.447, 539.867 )",
+          "note_type": 8,
+          "entry_angle": -270,
+          "type": "Note"
+        },
+        {
+          "time": 111568,
+          "position": "Vector2( 430.647, 726.568 )",
+          "note_type": 8,
+          "entry_angle": -89.93091,
+          "type": "Note"
+        },
+        {
+          "time": 111206,
+          "position": "Vector2( 622.942, 726.568 )",
+          "note_type": 8,
+          "entry_angle": -89.93091,
+          "type": "Note"
+        },
+        {
+          "time": 110845,
+          "position": "Vector2( 814.705, 726.568 )",
+          "note_type": 8,
+          "entry_angle": -89.93091,
+          "type": "Note"
+        },
+        {
+          "time": 105062,
+          "position": "Vector2( 719.087, 510.237 )",
+          "note_type": 8,
+          "entry_angle": -269.645714,
+          "type": "Note"
+        },
+        {
+          "time": 105784,
+          "position": "Vector2( 1102.61, 510.237 )",
+          "note_type": 8,
+          "entry_angle": -269.645714,
+          "type": "Note"
+        },
+        {
+          "time": 105423,
+          "position": "Vector2( 910.85, 510.237 )",
+          "note_type": 8,
+          "entry_angle": -269.645714,
+          "type": "Note"
+        },
+        {
+          "time": 133254,
+          "position": "Vector2( 1119.8, 324.133 )",
+          "note_type": 8,
+          "entry_angle": -269.913826,
+          "type": "Note"
+        },
+        {
+          "time": 132893,
+          "position": "Vector2( 960, 432 )",
+          "note_type": 8,
+          "entry_angle": -90,
+          "type": "Note"
+        },
+        {
+          "time": 132531,
+          "position": "Vector2( 799.755, 323.834 )",
+          "note_type": 8,
+          "entry_angle": -269.913826,
+          "type": "Note"
+        },
+        {
+          "time": 131989,
+          "position": "Vector2( 1071.37, 567.256 )",
+          "note_type": 8,
+          "entry_angle": -89.795304,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 131447,
+          "position": "Vector2( 783.463, 567.256 )",
+          "note_type": 8,
+          "entry_angle": -89.795304,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 131086,
+          "position": "Vector2( 591.7, 567.256 )",
+          "note_type": 8,
+          "entry_angle": -89.795304,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 130543,
+          "position": "Vector2( 832.068, 729.504 )",
+          "note_type": 8,
+          "entry_angle": -90.191468,
+          "type": "Note"
+        },
+        {
+          "time": 130001,
+          "position": "Vector2( 1119.98, 729.504 )",
+          "note_type": 8,
+          "entry_angle": -90.191468,
+          "type": "Note"
+        },
+        {
+          "time": 129640,
+          "position": "Vector2( 1311.74, 729.504 )",
+          "note_type": 8,
+          "entry_angle": -90.191468,
+          "type": "Note"
+        },
+        {
+          "time": 129098,
+          "position": "Vector2( 1071.82, 891.454 )",
+          "note_type": 8,
+          "entry_angle": -90.366697,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 128555,
+          "position": "Vector2( 783.375, 891.454 )",
+          "note_type": 8,
+          "entry_angle": -90.366697,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 128194,
+          "position": "Vector2( 591.611, 891.454 )",
+          "note_type": 8,
+          "entry_angle": -90.366697,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 56628,
+          "position": "Vector2( 976.246, 594.133 )",
+          "note_type": 8,
+          "entry_angle": -90,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 56266,
+          "position": "Vector2( 783.952, 594.133 )",
+          "note_type": 8,
+          "entry_angle": -90,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        },
+        {
+          "time": 55905,
+          "position": "Vector2( 592.189, 594.133 )",
+          "note_type": 8,
+          "entry_angle": -90,
+          "oscillation_frequency": -2,
+          "type": "Note"
+        }
+      ]
+    },
+    {
+      "name": "SLIDE_LEFT2",
+      "timing_points": [
+
+      ]
+    },
+    {
+      "name": "SLIDE_RIGHT2",
+      "timing_points": [
+
+      ]
+    },
+    {
+      "name": "Events",
+      "timing_points": [
+
+      ]
+    }
+  ],
+  "editor_settings": {
+    "hidden_layers": [
+      "SLIDE_RIGHT2",
+      "SLIDE_LEFT2",
+      "SLIDE_RIGHT",
+      "SLIDE_LEFT"
+    ],
+    "bpm": 166,
+    "offset": 0.062,
+    "type": "PerSongEditorSettings"
+  }
+}
